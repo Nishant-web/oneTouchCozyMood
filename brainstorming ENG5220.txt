@@ -67,7 +67,10 @@ add a jazzy touch
 >speaker system (cheapest one, 3.5mm jack) --> nishant may has one we can use!
 >mutliple plug extension
 
-
+### remarks ###
+user enters different playlists for different days/time of day
+user picks color for each playlist
+upon user creation, web app prompts user for initial scan for registration and correlation
 
 
 
