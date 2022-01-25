@@ -1,6 +1,6 @@
 -we believe that relaxing has a great role in a busy person's life
 -good music and preferred lighting both contribute to entering the perfect mood
--easy atmosphere setting with just a tag/fingerprint scan
+-easy atmosphere setting with just a fingerprint scan
 -configurable and expandable playlists for each person via web app
 -specific playlists can be chosen based on time of day / day of week
 
