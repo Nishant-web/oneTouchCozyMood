@@ -1,0 +1,82 @@
+-automatic light dimmer/controler
+-temperature controlled fan
+-object tracking camera/software
+-touch capacitive sensor to actuate light (real time dsp)
+-
+
+try make it something that ppl actually want to use
+software interrupts are a big thing (not just constant reading of sensors)
+2-3 sensors working together or 1 sensors doing something more complex
+
+
+new ideas:
+- synthesizer
+- reach out bot (cannot see how this is real time)
+- maze solving robot
+- ambulance sounds turn traffic ligths green -> transmitter/receiver
+- whistle sensoring for pressure cooker
+- cane with circuitry that turns pedestrian lights green faster for longer
+
+
+ambulance sounds turn traffic ligths green -> transmitter/receiver
+->receivers only arm/turn on when sound of siren is heard (specific frequency)
+->rf transmission should happen at a quick pace (ambulance is moving at high speeds)
+
+
+Idea#1
+Ambulance rf transmitter
+
+Idea#2
+Cane rf transmitter->Card for elderly people (many more use cases)
+
+Idea#3
+Home automation (motion+temp sensors, potentiometers, etc)
+
+Idea#4
+Fingerprint sensor identifier for music playback (user interface needed to add more users and their respective preferences)
+->incorporate blower for wet clothes/shoes
+
+Idea#5
+Pressure cooker
+
+Difficulty in hardware (acquisition + integration)
+Cost
+Difficulty in programming
+Sellability
+(out of 5)
+
+
+1	:4+2.5+3+2=	11.5
+2	:3+4+2.5+2=	11.5
+3	:5+5+2+1=	13
+4	:1.5+2.5+4+1.5=	9.5	
+5	:1.5+1.5+5+3.5=	11.5
+
+
+
+MIT license chosen, might change to AGPLv3 depending on patent requirements and feedback
+
+--->>one touch cozy mood<<---
+one touch cozy night
+cozy mood made easy
+add a jazzy touch
+
+---Hardware needed
+>fingerprint sensor (rasp pi compatible)
+>rgb led light strip (possibly power too)
+>speaker system (cheapest one, 3.5mm jack) --> nishant may has one we can use!
+>mutliple plug extension
+
+### remarks ###
+user enters different playlists for different days/time of day
+user picks color for each playlist
+upon user creation, web app prompts user for initial scan for registration and correlation
+
+
+
+
+
+
+
+
+
