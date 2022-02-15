@@ -9,4 +9,5 @@
 -check about gcc and text editor onboard rpi
 -ideas for logo to better promote product idea
 
+Question: how can all members have access to rpi since we cannot use port forwarding?
 
