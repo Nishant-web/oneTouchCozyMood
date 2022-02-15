@@ -1,0 +1,12 @@
+-consider wifi LEDs
+|->open source lights (no propriatery app)
+-possibly start with a program that sends query to youtube
+-database for up to 10 people (even less maybe)
+-use YouTube API https://developers.google.com/youtube/
+-configure actions/projects in github page
+-flash raspbian onto sd card
+-configure remote access on rpi
+-check about gcc and text editor onboard rpi
+-ideas for logo to better promote product idea
+
+
