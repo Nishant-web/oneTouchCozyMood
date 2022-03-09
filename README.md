@@ -1,5 +1,5 @@
 # oneTouchCozyMood
-Real Time Embedded Programming class project
+Real Time Embedded Programming Project
 
 <div align="center">
   
