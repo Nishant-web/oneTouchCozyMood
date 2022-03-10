@@ -9,7 +9,7 @@ Real Time Embedded Programming Project
      FLOW DIAGRAM
   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/21B13C78-9FB8-4F3A-BAED-6C016C901EB3.jpeg)
   ![](https://github.com/Chasmithav/oneTouchCozyMood/blob/main/21B13C78-9FB8-4F3A-BAED-6C016C901EB3.jpeg)
-  ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/21B13C78-9FB8-4F3A-BAED-6C016C901EB3.jpeg)
+  
   
   [![Contributors](https://img.shields.io/github/contributors/andretsolkas/oneTouchCozyMood.svg?style=for-the-badge)](https://github.com/andretsolkas/oneTouchCozyMood/graphs/contributors)
   [![Forks](https://img.shields.io/github/forks/andretsolkas/oneTouchCozyMood.svg?style=for-the-badge)](https://github.com/andretsolkas/oneTouchCozyMood/network/members)
