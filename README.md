@@ -6,7 +6,7 @@
   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/IMG_0050.jpeg)
   
      FLOW DIAGRAM
-  ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/21B13C78-9FB8-4F3A-BAED-6C016C901EB3.jpeg)
+  ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/EB5AA2D1-B228-45EA-9A8C-F5E603E43BAF.jpeg)
   
   
   
