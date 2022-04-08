@@ -1,6 +1,9 @@
 # oneTouchCozyMood
 
 <div align="center">
+  ABOUT:- 
+  The project aims to deliver real-time output of a system by using raspberry pi in C++ langugae, we are interfacing finger print sensor (R305) , speaker via Gpio ports and blutooth connectivty respectively. This paradigm is brought into exsitence to lighten-up person's mood espesially after a long day at work, by adjusting the ambience according to their mood with just one touch, hence the name "one touch cozy mood" which came after a lot of contemplating on several catchy names and this seemed apt for the project and its promotion on social media.
+  
   
      PROJECT LOGO
   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/IMG_0050.jpeg)
