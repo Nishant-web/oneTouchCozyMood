@@ -12,10 +12,10 @@
  
  <div align="left">
  ^ Raspberry pi 3 B+ <br/>
- ^ C++ embedded programming
- ^ Fingerprint sensor R305
- ^ Bluetooth speaker
- ^ led lights
+ ^ C++ embedded programming  <br/>
+ ^ Fingerprint sensor R305  <br/>
+ ^ Bluetooth speaker  <br/>
+ ^ led lights <br/>
  
  <div align="center">
   
@@ -25,9 +25,9 @@
   **AUTHORS**
   
  <div align="left">
- ^ Nishant Shriram Kshirsagar (kshirsagarnishant124@gmail.com)
- ^ Amit Rajendra Relan (amitrelan238@gmail.com)
- ^ Chashmitha Vadlamudi (chasmithav2000@gmail.com)
+ ^ Nishant Shriram Kshirsagar (kshirsagarnishant124@gmail.com)  <br/>
+ ^ Amit Rajendra Relan (amitrelan238@gmail.com)  <br/>
+ ^ Chashmitha Vadlamudi (chasmithav2000@gmail.com)  <br/>
  <div align="center">
   
   -----
