@@ -24,7 +24,7 @@
  ^ Chashmitha Vadlamudi (chasmithav2000@gmail.com)
  
  <div align="center">
-   PROJECT LOGO
+   **PROJECT LOGO**
   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/IMG_0050.jpeg)
   
     **FLOW DIAGRAM**
