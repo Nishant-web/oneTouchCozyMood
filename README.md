@@ -15,9 +15,9 @@
  ^ Fingerprint sensor R305
  ^ Bluetooth speaker
  ^ led lights
- ------
+ 
  <div align="center">
-  
+  -----
   **AUTHORS**
   
  <div align="left">
