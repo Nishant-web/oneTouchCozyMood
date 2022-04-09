@@ -25,7 +25,7 @@
   **AUTHORS**
   
  <div align="left">
- ^ Nishant Shriram Kshirsagar ( -- kshirsagarnishant124@gmail.com -- )  <br/>
+ ^ Nishant Shriram Kshirsagar (--kshirsagarnishant124@gmail.com--)  <br/>
  ^ Amit Rajendra Relan ( --amitrelan238@gmail.com-- )  <br/>
  ^ Chashmitha Vadlamudi ( --chasmithav2000@gmail.com-- )  <br/>
  <div align="center">
