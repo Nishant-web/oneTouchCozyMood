@@ -15,7 +15,7 @@
  ^ Fingerprint sensor R305
  ^ Bluetooth speaker
  ^ led lights
- 
+ -----
  <div align="center">
   
   **AUTHORS**
@@ -26,12 +26,14 @@
  ^ Chashmitha Vadlamudi (chasmithav2000@gmail.com)
  <div align="center">
   
+  -----
 **PROJECT LOGO**
   
   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/IMG_0050.jpeg)
   
   <div align="center">
    
+   -----
    
 **FLOW DIAGRAM**
    
