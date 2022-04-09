@@ -11,7 +11,7 @@
   **COMPONENTS USED**
  
  <div align="left">
- ^ Raspberry pi 3 B+ 
+ ^ Raspberry pi 3 B+ <br/>
  ^ C++ embedded programming
  ^ Fingerprint sensor R305
  ^ Bluetooth speaker
