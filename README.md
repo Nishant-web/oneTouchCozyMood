@@ -12,8 +12,16 @@
   
      FLOW DIAGRAM
   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/EB5AA2D1-B228-45EA-9A8C-F5E603E43BAF.jpeg)
-  
-  
+ 
+  TABLE OF CONTENTS
+
+
+COMPONENTS
+
+
+
+DESCRIPTION
+
   
   [![Contributors](https://img.shields.io/github/contributors/andretsolkas/oneTouchCozyMood.svg?style=for-the-badge)](https://github.com/andretsolkas/oneTouchCozyMood/graphs/contributors)
   [![Forks](https://img.shields.io/github/forks/andretsolkas/oneTouchCozyMood.svg?style=for-the-badge)](https://github.com/andretsolkas/oneTouchCozyMood/network/members)
