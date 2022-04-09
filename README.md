@@ -17,6 +17,7 @@
  <div align="center">
   
   **AUTHORS**
+  
  <div align="left">
  ^ Nishant Shriram Kshirsagar (kshirsagarnishant124@gmail.com)
  ^ Amit Rajendra Relan (amitrelan238@gmail.com)
@@ -24,12 +25,14 @@
  <div align="center">
   
 **PROJECT LOGO**
+  
   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/IMG_0050.jpeg)
   
   <div align="center">
    
    
 **FLOW DIAGRAM**
+   
   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/EB5AA2D1-B228-45EA-9A8C-F5E603E43BAF.jpeg)
   
   
