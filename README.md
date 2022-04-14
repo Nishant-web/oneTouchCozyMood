@@ -44,16 +44,17 @@
   -----
   -----
   
-  ## **AUTHORS**
   
- <div align="left">
- ^ Nishant Shriram Kshirsagar (kshirsagarnishant124@gmail.com)  <br/>
- ^ Amit Rajendra Relan (amitrelan238@gmail.com)  <br/>
- ^ Chashmitha Vadlamudi (chasmithav2000@gmail.com)  <br/>
+  
+## **FLOW DIAGRAM**
+   
+  ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/EB5AA2D1-B228-45EA-9A8C-F5E603E43BAF.jpeg)
+ 
  <div align="center">
   
   -----
   -----
+  
 ## **PROJECT DEMO**  
   Uploading soon
   
@@ -83,9 +84,13 @@
    -----
    -----
    
-## **FLOW DIAGRAM**
    
-  ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/EB5AA2D1-B228-45EA-9A8C-F5E603E43BAF.jpeg)
+ ## **AUTHORS**
+  
+ <div align="left">
+ ^ Nishant Shriram Kshirsagar (kshirsagarnishant124@gmail.com)  <br/>
+ ^ Amit Rajendra Relan (amitrelan238@gmail.com)  <br/>
+ ^ Chashmitha Vadlamudi (chasmithav2000@gmail.com)  <br/>
   
   
   
