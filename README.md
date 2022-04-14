@@ -1,7 +1,11 @@
 # oneTouchCozyMood
 
 <div align="center">
+ 
+ 
  ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/IMG_0050.jpeg)
+ 
+ 
  ## **Table of Contents**
  
  <div align="left">
