@@ -72,7 +72,7 @@
    -----
 ## **SOCIAL MEDIA**
 <div align="left">
-   COMING SOON
+[<img align= "left | Instagram" width= "30px" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AInstagram_icon.png&psig=AOvVaw1KD1Psslg7x4fOq0J7Rc6r&ust=1650059333030000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKDq4KLElPcCFQAAAAAdAAAAABAD"
  
    -----
    -----
