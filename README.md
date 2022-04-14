@@ -2,8 +2,10 @@
 
 <div align="center">
  
- *Table of Contents**
+ **Table of Contents**
  
+ <div align="left">
+  
  1. Project Description <br/>
  2. Project Logo <br/>
  3. Project Flowchart <br/>
