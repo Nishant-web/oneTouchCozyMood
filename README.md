@@ -10,14 +10,13 @@
  
  <div align="left">
   
- 1. [Project Description](#about-the-project) <br/>
- 2. [Project Logo](#project-logo) <br/>
- 3. [Project Flowchart](#flow-diagram) <br/>
- 4. [Project Demo](#project-demo) <br/>
- 5. [Components used](#components-used) <br/>
- 6. [Future Scope](#future-scope) <br/>
- 7. [Social Media Channel](# ) <br/>
- 8. [Authors](#authors) <br/>
+ 1. [About the Project](#about-the-project) <br/>
+ 2. [Components used](#components-used) <br/>
+ 2. [Project Flowchart](#flow-diagram) <br/>
+ 3. [Project Demo](#project-demo) <br/>
+ 4. [Future Scope](#future-scope) <br/>
+ 5. [Social Media Channel](# ) <br/>
+ 6. [Authors](#authors) <br/>
  
   <div align="center">
  
