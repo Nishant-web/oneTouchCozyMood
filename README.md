@@ -6,7 +6,7 @@
  
  <div align="left">
   
- 1. Project Description <br/>
+ 1. [Project Description](#about-the-project) <br/>
  2. Project Logo <br/>
  3. Project Flowchart <br/>
  4. Project Demo <br/>
@@ -24,7 +24,7 @@
 
  -----
  -----
-  **COMPONENTS USED**
+  ## **COMPONENTS USED**
  
  <div align="left">
  ^ Raspberry pi 3 B+ <br/>
@@ -38,7 +38,7 @@
   -----
   -----
   
-  **AUTHORS**
+  ## **AUTHORS**
   
  <div align="left">
  ^ Nishant Shriram Kshirsagar (kshirsagarnishant124@gmail.com)  <br/>
@@ -48,7 +48,14 @@
   
   -----
   -----
-**PROJECT LOGO**
+## **PROJECT DEMO**  
+  Uploading soon
+  
+## **FUTURE SCOPE**
+  1. Can set specific temperature for heater and aircondtioner via one touch.
+  2. Can turn on television via one touch
+  
+## **PROJECT LOGO**
   
   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/IMG_0050.jpeg)
   
@@ -57,7 +64,7 @@
    -----
    -----
    
-**FLOW DIAGRAM**
+## **FLOW DIAGRAM**
    
   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/EB5AA2D1-B228-45EA-9A8C-F5E603E43BAF.jpeg)
   
