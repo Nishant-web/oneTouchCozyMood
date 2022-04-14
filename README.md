@@ -13,7 +13,7 @@
  5. [Components used](#components-used) <br/>
  6. [Future Scope](#future-scope) <br/>
  7. [Social Media Channel](# ) <br/>
- 8. Authors <br/>
+ 8. [Authors](#authors) <br/>
  
   <div align="center">
  
