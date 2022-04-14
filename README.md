@@ -52,9 +52,13 @@
   Uploading soon
   
 ## **FUTURE SCOPE**
+  
+   <div align="left">
   1. Can set specific temperature for heater and aircondtioner via one touch.
   2. Can turn on television via one touch
   
+      <div align="center">
+       
 ## **PROJECT LOGO**
   
   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/IMG_0050.jpeg)
