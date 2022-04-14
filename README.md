@@ -7,9 +7,9 @@
  <div align="left">
   
  1. [Project Description](#about-the-project) <br/>
- 2. Project Logo <br/>
- 3. Project Flowchart <br/>
- 4. Project Demo <br/>
+ 2. [Project Logo](#project-logo) <br/>
+ 3. [Project Flowchart](#flow-diagram) <br/>
+ 4. [Project Demo](#project-demo) <br/>
  5. Components used <br/>
  6. Future Scope <br/>
  7. Social Media Channel <br/>
