@@ -51,6 +51,9 @@
 ## **PROJECT DEMO**  
   Uploading soon
   
+  -----
+  -----
+  
 ## **FUTURE SCOPE**
   
    <div align="left">
@@ -59,6 +62,9 @@
   
   <div align="center">
        
+   -----
+   -----
+   
 ## **PROJECT LOGO**
   
   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/IMG_0050.jpeg)
