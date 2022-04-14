@@ -92,6 +92,10 @@
  ^ Amit Rajendra Relan (amitrelan238@gmail.com)  <br/>
  ^ Chashmitha Vadlamudi (chasmithav2000@gmail.com)  <br/>
   
+  -----
+  -----
+  -----
+  
   
   
   [![Contributors](https://img.shields.io/github/contributors/andretsolkas/oneTouchCozyMood.svg?style=for-the-badge)](https://github.com/andretsolkas/oneTouchCozyMood/graphs/contributors)
