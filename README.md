@@ -10,9 +10,9 @@
  2. [Project Logo](#project-logo) <br/>
  3. [Project Flowchart](#flow-diagram) <br/>
  4. [Project Demo](#project-demo) <br/>
- 5. Components used <br/>
- 6. Future Scope <br/>
- 7. Social Media Channel <br/>
+ 5. [Components used](#components-used) <br/>
+ 6. [Future Scope](#future-scope) <br/>
+ 7. [Social Media Channel](# ) <br/>
  8. Authors <br/>
  
   <div align="center">
@@ -61,10 +61,16 @@
   2. Can turn on television via one touch.
   
   <div align="center">
-       
+  
    -----
    -----
-   
+## **SOCIAL MEDIA**
+<div align="left">
+   COMING SOON
+ 
+   -----
+   -----
+ 
 ## **PROJECT LOGO**
   
   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/IMG_0050.jpeg)
