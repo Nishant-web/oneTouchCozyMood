@@ -1,18 +1,56 @@
-# oneTouchCozyMood
+## oneTouchCozyMood
 
 <div align="center">
  
-  ABOUT THE PROJECT
+ 
+ ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/IMG_0050.jpeg)
+ 
+ 
+ ## **Table of Contents**
+ 
+ <div align="left">
   
-  The project aims to deliver real-time output of a system by using raspberry pi in C++ langugae, we are interfacing finger print sensor (R305) , speaker via Gpio ports and blutooth connectivty respectively. This paradigm is brought into exsitence to lighten-up person's mood espesially after a long day at work, by adjusting the ambience according to their mood with just one touch, hence the name "one touch cozy mood" which came after a lot of contemplating on several catchy names and this seemed apt for the project and its promotion on social media. The logo displayed below strives to shows explicitly what the project is really about and goes with the name as a classic medley of both name and logo, which gives the user realxing and fun vibes at first glance. 
+ 1. [About the Project](#about-the-project) <br/>
+ 2. [Components used](#components-used) <br/>
+ 2. [Project Flowchart](#flow-diagram) <br/>
+ 3. [Project Demo](#project-demo) <br/>
+ 4. [Future Scope](#future-scope) <br/>
+ 5. [License](#license)  <br/>
+ 5. [Social Media Channel](# ) <br/>
+ 6. [Authors](#authors) <br/>
+ 
+  <div align="center">
+ 
+   -----
+   -----
+   
+ ## **ABOUT THE PROJECT**
+  
+  The project aims to deliver a real-time output of a system by using raspberry pi in C++ language, we are interfacing fingerprint sensor (R305), speaker via Gpio ports, and Bluetooth connectivity respectively. This paradigm is brought into existence to lighten-up user's moods especially after a long day at work, by adjusting the ambiance according to their mood with just one touch, hence the name "oneTouchCozyMood" which came after a lot of contemplating on several catchy names and this seemed apt for the project and its promotion on social media. The logo displayed below strives to show explicitly what the project is really about and goes with the name as a classic medley of both name and logo, which gives the user relaxing and fun vibes at first glance.
+
+ -----
+ -----
+  ## **COMPONENTS USED**
+ 
+ <div align="left">
+ 1. Raspberry pi 3 B+ <br/>
+ 2. C++ embedded programming  <br/>
+ 3. Fingerprint sensor R305  <br/>
+ 4. Bluetooth speaker  <br/>
+ 5. Led lights <br/>
+ 
+ <div align="center">
+  
+  -----
+  -----
   
   
-     PROJECT LOGO
-  ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/IMG_0050.jpeg)
   
-     FLOW DIAGRAM
+## **FLOW DIAGRAM**
+   
   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/EB5AA2D1-B228-45EA-9A8C-F5E603E43BAF.jpeg)
  
+<<<<<<< HEAD
   TABLE OF CONTENTS
 
 
@@ -22,6 +60,65 @@ COMPONENTS
 
 DESCRIPTION
 
+=======
+ <div align="center">
+  
+  -----
+  -----
+  
+## **PROJECT DEMO**  
+  Uploading soon
+  
+  -----
+  -----
+  
+## **FUTURE SCOPE**
+  
+   <div align="left">
+  1. Can set specific temperature for heater and aircondtioner via one touch. <br/>
+  2. Can turn on television via one touch.
+  
+  <div align="center">
+  
+   -----
+   -----
+## **SOCIAL MEDIA**
+<div align="center">
+ 
+ [![instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/100px-Instagram_icon.png)](https://www.instagram.com/one_touch_cozy_mood/)
+ [![twitter](https://cdn.iconscout.com/icon/free/png-128/twitter-203-493159.png)](https://twitter.com/touch_cozy_mood)
+ [![youtube](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg3x7jUAjRX7ITSv69C0_-1MyzY0G4_Y45mg&usqp=CAU)](https://www.youtube.com/channel/UCGz5qoQ1cUQMT-c8PuJZ9TA)
+ 
+   -----
+   -----
+## **LICENSE**
+<div align="left">
+ 
+ The information about the license [MIT](https://choosealicense.com/licenses/mit/) is given here.
+ 
+   -----
+   -----
+ 
+  <div align="center">
+   
+   
+   
+   
+ ## **AUTHORS**
+  
+ <div align="left">
+  
+   [Nishant Kshirsagar](https://github.com/Nishant-web)   </br>
+   [Amit Rajendra Relan](https://github.com/amitrelan238) </br>
+   [Chasmitha Vadlamudi](https://github.com/Chasmithav)   </br>
+
+  
+  -----
+  -----
+  
+  
+  
+>>>>>>> 6791a6a70b38afd516040fb4ddd3eab92a9265ca
   
   [![Contributors](https://img.shields.io/github/contributors/andretsolkas/oneTouchCozyMood.svg?style=for-the-badge)](https://github.com/andretsolkas/oneTouchCozyMood/graphs/contributors)
   [![Forks](https://img.shields.io/github/forks/andretsolkas/oneTouchCozyMood.svg?style=for-the-badge)](https://github.com/andretsolkas/oneTouchCozyMood/network/members)
