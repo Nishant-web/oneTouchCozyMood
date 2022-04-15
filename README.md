@@ -88,9 +88,9 @@
  ## **AUTHORS**
   
  <div align="left">
-    - [Nishant Kshirsagar](https://github.com/Nishant-web)
-    - [Amit Rajendra Relan](https://github.com/amitrelan238)
-    - [Chasmitha Vadlamudi](https://github.com/Chasmithav)
+   [Nishant Kshirsagar](#https://github.com/Nishant-web)   </br>
+   [Amit Rajendra Relan](#https://github.com/amitrelan238) </br>
+   [Chasmitha Vadlamudi](#https://github.com/Chasmithav)   </br>
 
   
   -----
