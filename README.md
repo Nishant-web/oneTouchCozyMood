@@ -50,17 +50,6 @@
    
   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/EB5AA2D1-B228-45EA-9A8C-F5E603E43BAF.jpeg)
  
-<<<<<<< HEAD
-  TABLE OF CONTENTS
-
-
-COMPONENTS
-
-
-
-DESCRIPTION
-
-=======
  <div align="center">
   
   -----
