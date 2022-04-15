@@ -88,9 +88,10 @@
  ## **AUTHORS**
   
  <div align="left">
-  Nishant Shriram Kshirsagar (kshirsagarnishant124@gmail.com)  <br/>
-  Amit Rajendra Relan (amitrelan238@gmail.com)  <br/>
-  Chasmitha Vadlamudi (chasmithav2000@gmail.com)  <br/>
+    - [Nishant Kshirsagar](https://github.com/Nishant-web)
+    - [Amit Rajendra Relan](https://github.com/amitrelan238)
+    - [Chasmitha Vadlamudi](https://github.com/Chasmithav)
+
   
   -----
   -----
