@@ -76,7 +76,7 @@
  
  [![instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/100px-Instagram_icon.png)](https://www.instagram.com/one_touch_cozy_mood/)
  [![twitter](https://cdn.iconscout.com/icon/free/png-128/twitter-203-493159.png)](https://twitter.com/touch_cozy_mood)
- [![youtube](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg3x7jUAjRX7ITSv69C0_-1MyzY0G4_Y45mg&usqp=CAU)](https://www.youtube.com/channel/UCGz5qoQ1cUQMT-c8PuJZ9TA)
+ [![youtube](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/Yotube%20Logo.jpeg)](https://www.youtube.com/channel/UCGz5qoQ1cUQMT-c8PuJZ9TA)
  
    -----
    -----
