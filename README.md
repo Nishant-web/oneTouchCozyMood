@@ -73,8 +73,8 @@
 ## **SOCIAL MEDIA**
 <div align="left">
  
- [![instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/20px-Instagram_icon.png)](https://www.instagram.com/)
- [![twitter](https://cdn-icons-png.flaticon.com/512/124/124021.png)](https://twitter.com/)
+ [![instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/100px-Instagram_icon.png)](https://www.instagram.com/)
+ [![twitter](https://cdn-icons-png.flaticon.com/512/124/124021.png/100px-Twitter_icon.png)](https://twitter.com/)
  
    -----
    -----
