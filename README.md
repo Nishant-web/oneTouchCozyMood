@@ -48,7 +48,7 @@
   
 ## **FLOW DIAGRAM**
    
-  ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/EB5AA2D1-B228-45EA-9A8C-F5E603E43BAF.jpeg)
+  ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/4EA047F9-357B-4689-B173-74FDA11D24ED.jpeg)
  
  <div align="center">
   
