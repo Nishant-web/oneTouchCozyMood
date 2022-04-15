@@ -15,6 +15,7 @@
  2. [Project Flowchart](#flow-diagram) <br/>
  3. [Project Demo](#project-demo) <br/>
  4. [Future Scope](#future-scope) <br/>
+ 5. [License](#license)  <br/>
  5. [Social Media Channel](# ) <br/>
  6. [Authors](#authors) <br/>
  
@@ -78,7 +79,13 @@
  
    -----
    -----
-
+## **LICENSE**
+ [MIT](https://choosealicense.com/licenses/mit/)
+ 
+ 
+ 
+ 
+ 
  
   <div align="center">
    
