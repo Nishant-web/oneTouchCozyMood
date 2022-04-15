@@ -16,7 +16,7 @@
  3. [Project Demo](#project-demo) <br/>
  4. [Future Scope](#future-scope) <br/>
  5. [License](#license)  <br/>
- 5. [Social Media Channel](# ) <br/>
+ 5. [Social Media Channel](#social-media) <br/>
  6. [Authors](#authors) <br/>
  
   <div align="center">
@@ -105,9 +105,7 @@
   -----
   -----
   
-  
-  
->>>>>>> 6791a6a70b38afd516040fb4ddd3eab92a9265ca
+ 
   
   [![Contributors](https://img.shields.io/github/contributors/andretsolkas/oneTouchCozyMood.svg?style=for-the-badge)](https://github.com/andretsolkas/oneTouchCozyMood/graphs/contributors)
   [![Forks](https://img.shields.io/github/forks/andretsolkas/oneTouchCozyMood.svg?style=for-the-badge)](https://github.com/andretsolkas/oneTouchCozyMood/network/members)
