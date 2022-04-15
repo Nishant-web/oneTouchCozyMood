@@ -75,9 +75,9 @@
  
 <i class="fa-5x"></i> 
  
-[![instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png)](https://www.instagram.com/)
-[![twitter](https://cdn-icons-png.flaticon.com/512/124/124021.png)](https://twitter.com/)
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="instagram" width="100" height="150">
+
+
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="instagram" width="100" height="50">(https://www.instagram.com/)
 
 
  
