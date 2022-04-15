@@ -77,7 +77,9 @@
  
 
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="instagram" width="100" height="50">(https://www.instagram.com/)
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="instagram" width="100" height="100"> 
+ 
+ (https://www.instagram.com/)
 
 
  
