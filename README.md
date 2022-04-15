@@ -74,7 +74,7 @@
 <div align="left">
  
  [![instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/100px-Instagram_icon.png)](https://www.instagram.com/)
- [![twitter](https://files.softicons.com/download/social-media-icons/flat-social-media-icons-by-uiconstock/png/100*100/twitter.png)](https://twitter.com/)
+ [![twitter](https://icon-library.com/images/twitter-circle-icon-png/twitter-circle-icon-png-13.jpg)](https://twitter.com/)
  
    -----
    -----
