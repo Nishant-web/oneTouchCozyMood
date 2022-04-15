@@ -74,13 +74,13 @@
 ## **SOCIAL MEDIA**
 <div align="center">
  
- [![instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/128px-Instagram_icon.png)](https://www.instagram.com/)
- [![twitter](https://cdn.iconscout.com/icon/free/png-128/twitter-203-493159.png)](https://twitter.com/)
+ [![instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/128px-Instagram_icon.png)](https://www.instagram.com/one_touch_cozy_mood/)
+ [![twitter](https://cdn.iconscout.com/icon/free/png-128/twitter-203-493159.png)](https://twitter.com/touch_cozy_mood)
  
    -----
    -----
 ## **LICENSE**
- [MIT](https://choosealicense.com/licenses/mit/)
+ The information about the license [MIT](https://choosealicense.com/licenses/mit/) is given here.
  
  
  
