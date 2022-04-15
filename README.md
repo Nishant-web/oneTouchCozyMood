@@ -25,18 +25,18 @@
    
  ## **ABOUT THE PROJECT**
   
-  The project aims to deliver real-time output of a system by using raspberry pi in C++ langugae, we are interfacing finger print sensor (R305) , speaker via Gpio ports and blutooth connectivty respectively. This paradigm is brought into exsitence to lighten-up user's mood espesially after a long day at work, by adjusting the ambience according to their mood with just one touch, hence the name "one touch cozy mood" which came after a lot of contemplating on several catchy names and this seemed apt for the project and its promotion on social media. The logo displayed below strives to shows explicitly what the project is really about and goes with the name as a classic medley of both name and logo, which gives the user realxing and fun vibes at first glance.
+  The project aims to deliver a real-time output of a system by using raspberry pi in C++ language, we are interfacing fingerprint sensor (R305), speaker via Gpio ports, and Bluetooth connectivity respectively. This paradigm is brought into existence to lighten-up user's moods especially after a long day at work, by adjusting the ambiance according to their mood with just one touch, hence the name "oneTouchCozyMood" which came after a lot of contemplating on several catchy names and this seemed apt for the project and its promotion on social media. The logo displayed below strives to show explicitly what the project is really about and goes with the name as a classic medley of both name and logo, which gives the user relaxing and fun vibes at first glance.
 
  -----
  -----
   ## **COMPONENTS USED**
  
  <div align="left">
- ^ Raspberry pi 3 B+ <br/>
- ^ C++ embedded programming  <br/>
- ^ Fingerprint sensor R305  <br/>
- ^ Bluetooth speaker  <br/>
- ^ led lights <br/>
+ 1. Raspberry pi 3 B+ <br/>
+ 2. C++ embedded programming  <br/>
+ 3. Fingerprint sensor R305  <br/>
+ 4. Bluetooth speaker  <br/>
+ 5. Led lights <br/>
  
  <div align="center">
   
@@ -86,9 +86,9 @@
  ## **AUTHORS**
   
  <div align="left">
- ^ Nishant Shriram Kshirsagar (kshirsagarnishant124@gmail.com)  <br/>
- ^ Amit Rajendra Relan (amitrelan238@gmail.com)  <br/>
- ^ Chasmitha Vadlamudi (chasmithav2000@gmail.com)  <br/>
+  Nishant Shriram Kshirsagar (kshirsagarnishant124@gmail.com)  <br/>
+  Amit Rajendra Relan (amitrelan238@gmail.com)  <br/>
+  Chasmitha Vadlamudi (chasmithav2000@gmail.com)  <br/>
   
   -----
   -----
