@@ -73,15 +73,9 @@
 ## **SOCIAL MEDIA**
 <div align="left">
  
-<i class="fa-5x"></i> 
- 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="instagram" width="100" height="100"(https://www.instagram.com/)
 
-
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="instagram" width="100" height="100"> 
- 
- (https://www.instagram.com/)
-
-
+ <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="twitter" width="100" height="100"> (https://twitter.com/)
  
  
    -----
