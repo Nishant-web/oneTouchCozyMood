@@ -80,6 +80,8 @@
    -----
    -----
 ## **LICENSE**
+<div align="left">
+ 
  The information about the license [MIT](https://choosealicense.com/licenses/mit/) is given here.
  
  
