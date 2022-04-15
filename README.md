@@ -73,8 +73,10 @@
 ## **SOCIAL MEDIA**
 <div align="left">
  
-[<img align= "left | Instagram" width= "30px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"]
-[<img align= "left | Twitter" width= "30px" src= "https://cdn-icons-png.flaticon.com/512/124/124021.png"]
+[![instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png)](https://www.instagram.com/)
+[![twitter](https://cdn-icons-png.flaticon.com/512/124/124021.png)](https://twitter.com/)
+
+
  
  
    -----
