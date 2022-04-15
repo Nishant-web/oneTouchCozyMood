@@ -72,7 +72,9 @@
    -----
 ## **SOCIAL MEDIA**
 <div align="left">
-[<img align= "left | Instagram" width= "30px" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AInstagram_icon.png&psig=AOvVaw1KD1Psslg7x4fOq0J7Rc6r&ust=1650059333030000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKDq4KLElPcCFQAAAAAdAAAAABAD"
+[<img align= "left | Instagram" width= "30px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"
+[<img align= "left | Twitter" width= "30px" src= "https://cdn-icons-png.flaticon.com/512/124/124021.png"
+ 
  
    -----
    -----
