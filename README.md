@@ -14,7 +14,7 @@
  2. [Components used](#components-used) <br/>
  2. [Project Flowchart](#flow-diagram) <br/>
  3. [Project Demo](#project-demo) <br/>
- 4. [Installation](#quick-guide)  <br/>
+ 4. [Installation](#installation)  <br/>
  5. [Future Scope](#future-scope) <br/>
  6. [License](#license)  <br/>
  7. [Social Media Channel](#social-media) <br/>
@@ -96,6 +96,8 @@ To upload local repository content to a remote repository
   -----
   -----
   
+   <div align="center">
+   
 ## **FUTURE SCOPE**
   
    <div align="left">
