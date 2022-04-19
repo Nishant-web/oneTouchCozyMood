@@ -1,0 +1,3 @@
+/home/pi/Desktop/TEMP/Delete_Users/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/TEMP/Delete_Users/build/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/TEMP/Delete_Users/build/CMakeFiles/DELETE_ALL.dir

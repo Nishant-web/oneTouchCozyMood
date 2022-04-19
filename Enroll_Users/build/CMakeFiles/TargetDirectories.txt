@@ -1,0 +1,3 @@
+/home/pi/Desktop/TEMP/Enroll_Users/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/TEMP/Enroll_Users/build/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/TEMP/Enroll_Users/build/CMakeFiles/ENROLL.dir

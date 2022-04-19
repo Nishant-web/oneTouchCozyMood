@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/fpsR305.h
+
+/home/pi/Desktop/TEMP/Delete_Users/src/delete_all_user.cpp
+sys/types.h
+-
+sys/stat.h
+-
+stdint.h
+-
+stdio.h
+-
+stdlib.h
+-
+wiringPi.h
+-
+wiringSerial.h
+-
+fpsR305.h
+/home/pi/Desktop/TEMP/Delete_Users/src/fpsR305.h
+
+/home/pi/Desktop/TEMP/Delete_Users/src/fpsR305.cpp
+stdint.h
+-
+stdio.h
+-
+stdlib.h
+-
+wiringPi.h
+-
+wiringSerial.h
+-
+fpsR305.h
+/home/pi/Desktop/TEMP/Delete_Users/src/fpsR305.h
+
