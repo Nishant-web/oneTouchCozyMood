@@ -141,7 +141,7 @@ To upload local repository content to a remote repository
    * [Amit Rajendra Relan](https://github.com/amitrelan238) </br>
    * [Chasmitha Vadlamudi](https://github.com/Chasmithav)   </br>
    
-   * Any queries [email](https://onetouchcozymood@gmail.com) us.
+   * Any queries, Email: [onetouchcozymood@gmail.com](https://outlook.office365.com/mail/deeplink/compose?mailtouri=mailto%3Aonetouchcozymood%40gmail.com)
 
   
   -----
