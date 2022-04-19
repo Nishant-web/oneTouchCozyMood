@@ -42,7 +42,7 @@
  4. Bluetooth speaker  <br/>
  5. Led lights <br/>
  
- <div align="center">
+ 
   
   -----
   -----
@@ -53,7 +53,7 @@
    
   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/4EA047F9-357B-4689-B173-74FDA11D24ED.jpeg)
  
- <div align="center">
+ <div align="left">
   
   -----
   -----
@@ -97,8 +97,7 @@ To upload local repository content to a remote repository
 ```
   -----
   -----
-  
-   <div align="center">
+ 
    
 ## **FUTURE SCOPE**
   
@@ -129,7 +128,7 @@ To upload local repository content to a remote repository
    -----
    -----
  
-  <div align="center">
+ 
    
  ## **AUTHORS**
   
@@ -143,7 +142,7 @@ To upload local repository content to a remote repository
   -----
   -----
   
- 
+ <div align="center">
   
   [![Contributors](https://img.shields.io/github/contributors/andretsolkas/oneTouchCozyMood.svg?style=for-the-badge)](https://github.com/andretsolkas/oneTouchCozyMood/graphs/contributors)
   [![Forks](https://img.shields.io/github/forks/andretsolkas/oneTouchCozyMood.svg?style=for-the-badge)](https://github.com/andretsolkas/oneTouchCozyMood/network/members)
