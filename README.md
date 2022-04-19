@@ -63,6 +63,7 @@
   -----
   
 ## **INSTALLATION** 
+  <div align="left">
   
   To copy the project repository
 
