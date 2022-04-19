@@ -76,7 +76,7 @@
  <div align="center">
  
 ## **PROJECT DEMO**  
-  Watch our project [VIDEO DEMO](https://www.youtube.com/channel/UCGz5qoQ1cUQMT-c8PuJZ9TA) here.
+  Watch our project [VIDEO DEMO](https://www.youtube.com/channel/UCGz5qoQ1cUQMT-c8PuJZ9TA/videos) here.
 
   
   -----
