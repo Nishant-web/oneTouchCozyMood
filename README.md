@@ -1,10 +1,12 @@
+<div align="center">
+ 
 ## oneTouchCozyMood
 
 <div align="center">
  
- 
  ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/IMG_0050.jpeg)
  
+ <div align="left">
  
  ## **Table of Contents**
  
@@ -20,7 +22,7 @@
  7. [Social Media Channel](#social-media) <br/>
  8. [Authors](#authors) <br/>
  
-  <div align="center">
+  
  
    -----
    -----
