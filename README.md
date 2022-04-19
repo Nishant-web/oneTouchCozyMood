@@ -12,7 +12,7 @@
   
    ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/thumbup_good_emoticon-512.jpg)Watch [Video Demonstration](https://www.youtube.com/channel/UCGz5qoQ1cUQMT-c8PuJZ9TA) of our project here!!!!
   
-   To analyze more, browse [hacker.io](https://hackaday.io/project/184873-one-touch-cozy-mood)!!!
+   To analyze more, browse [hackaday.io](https://hackaday.io/project/184873-one-touch-cozy-mood)!!!
   
  
  <div align="left">
