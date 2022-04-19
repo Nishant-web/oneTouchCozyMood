@@ -14,10 +14,11 @@
  2. [Components used](#components-used) <br/>
  2. [Project Flowchart](#flow-diagram) <br/>
  3. [Project Demo](#project-demo) <br/>
- 4. [Future Scope](#future-scope) <br/>
- 5. [License](#license)  <br/>
- 5. [Social Media Channel](#social-media) <br/>
- 6. [Authors](#authors) <br/>
+ 4. [Installation](#quick-guide)  <br/>
+ 5. [Future Scope](#future-scope) <br/>
+ 6. [License](#license)  <br/>
+ 7. [Social Media Channel](#social-media) <br/>
+ 8. [Authors](#authors) <br/>
  
   <div align="center">
  
@@ -61,6 +62,39 @@
   -----
   -----
   
+## **INSTALLATION** 
+  
+  To copy the project repository
+
+```bash
+  $ git init 
+  $ git clone 
+  $ cd oneTouchCozyMood/
+  $ git submodule update --init --recursive --remote 
+```
+To display the state of the working directory and the staging area
+
+```bash
+  $ git status
+```
+To add a change in the working directory 
+
+```bash
+  $ git add README.md
+```
+To commit with a message
+
+```bash
+  $ git commit -m "Message"
+```
+To upload local repository content to a remote repository
+
+```bash
+  $ git push -u origin
+```
+  -----
+  -----
+  
 ## **FUTURE SCOPE**
   
    <div align="left">
@@ -71,6 +105,7 @@
   
    -----
    -----
+   
 ## **SOCIAL MEDIA**
 <div align="center">
  
@@ -80,6 +115,7 @@
  
    -----
    -----
+ 
 ## **LICENSE**
 <div align="left">
  
@@ -89,9 +125,6 @@
    -----
  
   <div align="center">
-   
-   
-   
    
  ## **AUTHORS**
   
