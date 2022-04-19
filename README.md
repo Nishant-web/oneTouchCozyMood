@@ -1,8 +1,12 @@
 <div align="center">
  
 ## oneTouchCozyMood
+ [More about our oneTouchCozyMood!](https://github.com/Nishant-web/oneTouchCozyMood)
+ Check our [wiki](https://github.com/Nishant-web/oneTouchCozyMood.wiki.git) to understand more!!
+ Watch [Video Demonstration](https://www.youtube.com/channel/UCGz5qoQ1cUQMT-c8PuJZ9TA) of our project here!!!!
+ To analyze more, browse [hacker.io](https://hackaday.io/project/184873-one-touch-cozy-mood)!!!
 
-<div align="center">
+ <div align="center">
  
  ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/IMG_0050.jpg)
  
@@ -108,7 +112,7 @@ To upload local repository content to a remote repository
 ## **FUTURE SCOPE**
   
    <div align="left">
-  1. Can set specific temperature for heater and aircondtioner via one touch. <br/>
+  1. Can set a specific temperature for the heater and airconditioner via one touch. <br/>
   2. Can turn on television via one touch.
   
   <div align="center">
