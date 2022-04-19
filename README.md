@@ -137,10 +137,11 @@ To upload local repository content to a remote repository
   
  <div align="left">
   
-   [Nishant Kshirsagar](https://github.com/Nishant-web)   </br>
-   [Amit Rajendra Relan](https://github.com/amitrelan238) </br>
-   [Chasmitha Vadlamudi](https://github.com/Chasmithav)   </br>
-   Any queries [email](onetouchcozymood@gmail.com) us.
+   * [Nishant Kshirsagar](https://github.com/Nishant-web)   </br>
+   * [Amit Rajendra Relan](https://github.com/amitrelan238) </br>
+   * [Chasmitha Vadlamudi](https://github.com/Chasmithav)   </br>
+   
+   * Any queries [email](https://onetouchcozymood@gmail.com) us.
 
   
   -----
