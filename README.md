@@ -11,7 +11,7 @@
   
    ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/kiss-face-emoji.jpg)[More about our oneTouchCozyMood!](https://github.com/Nishant-web/oneTouchCozyMood)
   
-   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/emoticon.jpg)Check our [wiki](https://github.com/Nishant-web/oneTouchCozyMood.wiki.git) to understand more!!
+   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/emoticon.jpg)Check our [wiki](https://github.com/Nishant-web/oneTouchCozyMood/wiki) to understand more!!
   
    ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/thumbup_good_emoticon-512.jpg)Watch [Video Demonstration](https://www.youtube.com/channel/UCGz5qoQ1cUQMT-c8PuJZ9TA) of our project here!!!!
   
