@@ -7,9 +7,13 @@
  ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/IMG_0050.jpg)
   
    [More about our oneTouchCozyMood!](https://github.com/Nishant-web/oneTouchCozyMood)
+  
    Check our [wiki](https://github.com/Nishant-web/oneTouchCozyMood.wiki.git) to understand more!!
+  
    Watch [Video Demonstration](https://www.youtube.com/channel/UCGz5qoQ1cUQMT-c8PuJZ9TA) of our project here!!!!
+  
    To analyze more, browse [hacker.io](https://hackaday.io/project/184873-one-touch-cozy-mood)!!!
+  
  
  <div align="left">
  
