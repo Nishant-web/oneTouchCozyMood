@@ -140,11 +140,14 @@ To upload local repository content to a remote repository
    [Nishant Kshirsagar](https://github.com/Nishant-web)   </br>
    [Amit Rajendra Relan](https://github.com/amitrelan238) </br>
    [Chasmitha Vadlamudi](https://github.com/Chasmithav)   </br>
+   Any queries [email](onetouchcozymood@gmail.com) us.
 
   
   -----
   -----
-  
+   
+  © 2022 Copyright UofG_Real_Time_Embedded_Systems_oneTouchCozyMood_Team 2
+   
  <div align="center">
   
   [![Contributors](https://img.shields.io/github/contributors/andretsolkas/oneTouchCozyMood.svg?style=for-the-badge)](https://github.com/andretsolkas/oneTouchCozyMood/graphs/contributors)
