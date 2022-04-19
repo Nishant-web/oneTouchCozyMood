@@ -4,7 +4,7 @@
 
 <div align="center">
  
- ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/IMG_0050.jpeg)
+ ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/IMG_0050.jpg)
  
  <div align="left">
  
@@ -54,7 +54,7 @@
   
 ## **FLOW DIAGRAM**
    
-  ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/4EA047F9-357B-4689-B173-74FDA11D24ED.jpeg)
+  ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/df84aa7c-3fcc-4fed-8a76-738bd423b2a5.jpg)
  
  <div align="left">
   
