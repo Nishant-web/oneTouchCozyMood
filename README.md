@@ -26,6 +26,8 @@
  
    -----
    -----
+  
+  <div align="center">
    
  ## **ABOUT THE PROJECT**
   
@@ -33,6 +35,7 @@
 
  -----
  -----
+   
   ## **COMPONENTS USED**
  
  <div align="left">
