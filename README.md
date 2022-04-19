@@ -114,7 +114,7 @@ To upload local repository content to a remote repository
  
  [![instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/50px-Instagram_icon.png)](https://www.instagram.com/one_touch_cozy_mood/)
  [![twitter](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/Twitter.jpg)](https://twitter.com/touch_cozy_mood)
- [![youtube](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/Yotube%20Logo.jpeg)](https://www.youtube.com/channel/UCGz5qoQ1cUQMT-c8PuJZ9TA)
+ [![youtube](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/Youtube.jpg)](https://www.youtube.com/channel/UCGz5qoQ1cUQMT-c8PuJZ9TA)
  
    -----
    -----
