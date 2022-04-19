@@ -7,7 +7,21 @@
   MSc Team of University of Glasgow - Real Time Embedded Programming (2021-22) (ENG5220)
  
   
+  
+  
+   
+  
  ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/IMG_0050.jpg)
+ ----
+  
+  
+  
+## **Significant sites**
+  
+  
+  <div align="left">
+   
+  
   
    ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/kiss-face-emoji.jpg)[More about our oneTouchCozyMood!](https://github.com/Nishant-web/oneTouchCozyMood)
   
@@ -17,7 +31,8 @@
   
    To analyze more, browse [hackaday.io](https://hackaday.io/project/184873-one-touch-cozy-mood)!!!
   
- 
+ -----
+   
  <div align="left">
  
  ## **Table of Contents**
