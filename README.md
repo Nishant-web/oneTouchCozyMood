@@ -3,7 +3,10 @@
 ## oneTouchCozyMood
 
  <div align="center">
+  
+  MSc Team of University of Glasgow - Real Time Embedded Programming (2021-22) (ENG5220)
  
+  
  ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/IMG_0050.jpg)
   
    ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/kiss-face-emoji.jpg)[More about our oneTouchCozyMood!](https://github.com/Nishant-web/oneTouchCozyMood)
@@ -25,9 +28,9 @@
  2. [Components used](#components-used) <br/>
  2. [Project Flowchart](#flow-diagram) <br/>
  3. [Project Demo](#project-demo) <br/>
- 4. [Installation](#installation)  <br/>
+ 4. [Quick Guide](#quick-guide) <br/>
  5. [Future Scope](#future-scope) <br/>
- 6. [License](#license)  <br/>
+ 6. [License](#license) <br/>
  7. [Social Media Channel](#social-media) <br/>
  8. [Authors](#authors) <br/>
  
@@ -73,12 +76,13 @@
  <div align="center">
  
 ## **PROJECT DEMO**  
-  Uploading soon
+  Watch our project [VIDEO DEMO](https://www.youtube.com/channel/UCGz5qoQ1cUQMT-c8PuJZ9TA) here.
+
   
   -----
   -----
   
-## **INSTALLATION** 
+## **QUICK GUIDE** 
   <div align="left">
   
   To copy the project repository
