@@ -61,6 +61,8 @@
   -----
   -----
   
+ <div align="center">
+ 
 ## **PROJECT DEMO**  
   Uploading soon
   
@@ -101,7 +103,8 @@ To upload local repository content to a remote repository
   -----
   -----
  
-   
+<div align="center">
+     
 ## **FUTURE SCOPE**
   
    <div align="left">
@@ -141,7 +144,7 @@ To upload local repository content to a remote repository
    * [Amit Rajendra Relan](https://github.com/amitrelan238) </br>
    * [Chasmitha Vadlamudi](https://github.com/Chasmithav)   </br>
    
-   * Any queries, Email: [onetouchcozymood@gmail.com](https://outlook.office365.com/mail/deeplink/compose?mailtouri=mailto%3Aonetouchcozymood%40gmail.com)
+   * Any queries, email us at [onetouchcozymood@gmail.com](https://outlook.office365.com/mail/deeplink/compose?mailtouri=mailto%3Aonetouchcozymood%40gmail.com)
 
   
   -----
