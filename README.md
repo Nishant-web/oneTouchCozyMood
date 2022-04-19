@@ -84,7 +84,21 @@
   
 ## **QUICK GUIDE** 
   <div align="left">
+   
   
+   **To start this project**
+ 
+   ^ Download folder '' Delete_Users'' <br/>
+   ^ Download folder '' Enroll_Users'' <br/>
+   ^ Download folder '' Music_player'' <br/>
+   ^ make a folder and copy paste all the folder you download <br/>
+   ^ Open Enroll folder -- Click on Build-- Then click on enroll ---then click on execute in terminal <br/>
+   ^ Enter ID, name and scan your finger on fingerprint sensor then Your fingerprint name will be registered in datafolder <br/>
+   ^ Add your favourite playlist to your folder <br/>
+   ^ Go to Music player and click on build --- then click on Play --- click on execute in terminal <br/>
+   ^ Scan your registered finger and then ambient light and your playlist will start. <br/>
+   
+
   To copy the project repository
 
 ```bash
