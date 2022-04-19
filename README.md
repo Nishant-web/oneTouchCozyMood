@@ -56,7 +56,7 @@
    
   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/df84aa7c-3fcc-4fed-8a76-738bd423b2a5.jpg)
  
- <div align="left">
+ <div align="center">
   
   -----
   -----
