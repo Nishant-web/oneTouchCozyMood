@@ -150,8 +150,7 @@ To upload local repository content to a remote repository
 ## **FUTURE SCOPE**
   
    <div align="left">
-  1. Can set a specific temperature for the heater and airconditioner via one touch. <br/>
-  2. Can turn on television via one touch.
+  1. In the long run the updates for this device will include more accessibility for the user to be able to swtich on things with just one touch for instance, connect a TV via bluetooth connectivity, however different fingre print data will be allocated to a specific user, so that one will be able to turn on TV with one finger print and put on the relaxing ambience with the other one.
   
   <div align="center">
   
