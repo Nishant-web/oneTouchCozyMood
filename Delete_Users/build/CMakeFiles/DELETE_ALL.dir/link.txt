@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/DELETE_ALL.dir/src/delete_all_user.cpp.o CMakeFiles/DELETE_ALL.dir/src/fpsR305.cpp.o -o DELETE_ALL  -Wl,-rpath,/usr/local/lib /usr/local/lib/libwiringPi.so 
