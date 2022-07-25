@@ -1,3 +1,0 @@
-/home/pi/Desktop/TEMP/Music_Player/build/CMakeFiles/rebuild_cache.dir
-/home/pi/Desktop/TEMP/Music_Player/build/CMakeFiles/edit_cache.dir
-/home/pi/Desktop/TEMP/Music_Player/build/CMakeFiles/PLAY.dir

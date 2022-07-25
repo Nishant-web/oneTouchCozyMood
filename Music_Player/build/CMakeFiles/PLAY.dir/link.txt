@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/PLAY.dir/src/dir_handler.cpp.o CMakeFiles/PLAY.dir/src/fpsR305.cpp.o CMakeFiles/PLAY.dir/src/mp3_handler.cpp.o CMakeFiles/PLAY.dir/src/music_player.cpp.o -o PLAY  -Wl,-rpath,/usr/local/lib /usr/local/lib/libwiringPi.so 
