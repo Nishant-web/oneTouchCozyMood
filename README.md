@@ -51,8 +51,7 @@
  
   
  
-   -----
-   -----
+  
   
   <div align="center">
    
@@ -60,8 +59,7 @@
   
   The project aims to deliver a real-time output of a system by using raspberry pi in C++ language, we are interfacing fingerprint sensor (R305), speaker via Gpio ports, and Bluetooth connectivity respectively. This paradigm is brought into existence to lighten-up user's moods especially after a long day at work, by adjusting the ambiance according to their mood with just one touch, hence the name "oneTouchCozyMood" which came after a lot of contemplating on several catchy names and this seemed apt for the project and its promotion on social media. The logo displayed below strives to show explicitly what the project is really about and goes with the name as a classic medley of both name and logo, which gives the user relaxing and fun vibes at first glance.
 
- -----
- -----
+
    
   ## **COMPONENTS USED**
  
@@ -73,9 +71,7 @@
  5. Led lights <br/>
  
  
-  
-  -----
-  -----
+
   
 <div align="center">
  
@@ -85,18 +81,14 @@
   
  <div align="center"> 
   
-  -----
-  -----
-  
+ 
  <div align="center">
  
 ## **PROJECT DEMO**  
   Watch our project [VIDEO DEMO](https://www.youtube.com/watch?v=O_imgMwheiM) here.
 
   
-  -----
-  -----
-  
+
 ## **QUICK GUIDE** 
   <div align="left">
    
@@ -142,8 +134,7 @@ To upload local repository content to a remote repository
 ```bash
   $ git push -u origin
 ```
-  -----
-  -----
+  
  
 <div align="center">
      
@@ -154,8 +145,7 @@ To upload local repository content to a remote repository
   
   <div align="center">
   
-   -----
-   -----
+   
    
 ## **SOCIAL MEDIA**
 <div align="center">
@@ -164,16 +154,14 @@ To upload local repository content to a remote repository
  [![twitter](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/Twitter.jpg)](https://twitter.com/touch_cozy_mood)
  [![youtube](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/Youtube%20(2).jpg)](https://www.youtube.com/channel/UCGz5qoQ1cUQMT-c8PuJZ9TA)
  
-   -----
-   -----
+  
  
 ## **LICENSE**
 <div align="left">
  
  The information about the license [MIT](https://choosealicense.com/licenses/mit/) is given here.
  
-   -----
-   -----
+  
  
  
    
@@ -188,8 +176,7 @@ To upload local repository content to a remote repository
    * Any queries, email us at [onetouchcozymood@gmail.com](https://outlook.office365.com/mail/deeplink/compose?mailtouri=mailto%3Aonetouchcozymood%40gmail.com)
 
   
-  -----
-  -----
+  
    
   © 2022 Copyright UofG_Real_Time_Embedded_Systems_oneTouchCozyMood_Team 2
    
