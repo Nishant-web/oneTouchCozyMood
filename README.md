@@ -69,7 +69,7 @@
  3. Fingerprint sensor R305  <br/>
  4. Bluetooth speaker  <br/>
  5. Led lights <br/>
- 
+ 6. Switches <br/>
  
 
   
