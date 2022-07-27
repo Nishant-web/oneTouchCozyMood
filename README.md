@@ -84,7 +84,7 @@
   
 ## **CIRCUIT DESIGN** 
 
-![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/df84aa7c-3fcc-4fed-8a76-738bd423b2a5.jpg)
+![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/1EEF1B91-5769-496E-8CA6-E3CD94541B67.jpeg)
  
  <div align="center">
  
