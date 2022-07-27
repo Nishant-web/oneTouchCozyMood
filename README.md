@@ -39,15 +39,15 @@
  
  <div align="left">
   
- 1. [About the Project](#about-the-project) <br/>
- 2. [Components used](#components-used) <br/>
- 2. [Project Flowchart](#flow-diagram) <br/>
- 3. [Project Demo](#project-demo) <br/>
- 4. [Quick Guide](#quick-guide) <br/>
- 5. [Future Scope](#future-scope) <br/>
- 6. [License](#license) <br/>
- 7. [Social Media Channel](#social-media) <br/>
- 8. [Authors](#authors) <br/>
+ 1. [Project Description](#project-description) <br/>
+ 2. [Hardware and Software used](#hardware-and-software-used) <br/>
+ 3. [Project Flowchart](#flow-diagram) <br/>
+ 4. [Project Demo](#project-demo) <br/>
+ 5. [Quick Guide](#quick-guide) <br/>
+ 6. [Future Scope](#future-scope) <br/>
+ 7. [License](#license) <br/>
+ 8. [Social Media Channel](#social-media) <br/>
+ 9. [Authors](#authors) <br/>
  
   
   -----
