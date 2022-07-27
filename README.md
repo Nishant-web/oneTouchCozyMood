@@ -50,7 +50,7 @@
  8. [Authors](#authors) <br/>
  
   
- 
+  -----
   
   
   <div align="center">
@@ -59,7 +59,7 @@
  ## **PROJECT DESCRIPTION**
  
   The project aims to deliver a real-time output of a system by using raspberry pi in object oriented C++ language, we are interfacing fingerprint sensor (R305), speaker via Gpio ports, and Bluetooth connectivity respectively. This paradigm is brought into existence to lighten-up user's moods especially after a long day at work, by adjusting the ambiance according to their mood with just one touch, hence the name "oneTouchCozyMood" which came after a lot of contemplating on several catchy names and this seemed apt for the project and its promotion on social media. The logo displayed below strives to show explicitly what the project is really about and goes with the name as a classic medley of both name and logo, which gives the user relaxing and fun vibes at first glance.
-
+ -----
 
    
   ## **HARDWARE AND SOFTWARE USED**
@@ -72,7 +72,7 @@
  5. Led lights <br/>
  6. Switches <br/>
  
-
+ -----
   
 <div align="center">
  
@@ -81,18 +81,19 @@
   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/df84aa7c-3fcc-4fed-8a76-738bd423b2a5.jpg)
   
  <div align="center"> 
-  
+ 
+  -----
   
 ## **CIRCUIT DESIGN** 
 
 ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/1EEF1B91-5769-496E-8CA6-E3CD94541B67.jpeg)
  
  <div align="center">
- 
+ ----- 
 ## **PROJECT DEMO**  
   Watch our project [VIDEO DEMO](https://www.youtube.com/watch?v=O_imgMwheiM) here.
 
-  
+  ----- 
 
 ## **QUICK GUIDE** 
   <div align="left">
@@ -140,7 +141,7 @@ To upload local repository content to a remote repository
   $ git push -u origin
 ```
   
- 
+ ----- 
 <div align="center">
      
 ## **FUTURE SCOPE**
@@ -149,7 +150,7 @@ To upload local repository content to a remote repository
   In the long run the updates for this device will include more accessibility for the user in terms of remote control access such as smartphone application to use smartphones fingerprint sensor to be able to switch things with just one touch for instance, connect a TV via bluetooth connectivity, however different fingre print data will be allocated to a specific user, so that one will be able to turn on TV with one finger print and put on the relaxing ambience with the other one from the application itself.
   
   <div align="center">
-  
+   -----
    
    
 ## **SOCIAL MEDIA**
@@ -159,7 +160,7 @@ To upload local repository content to a remote repository
  [![twitter](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/Twitter.jpg)](https://twitter.com/touch_cozy_mood)
  [![youtube](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/Youtube%20(2).jpg)](https://www.youtube.com/channel/UCGz5qoQ1cUQMT-c8PuJZ9TA)
  
-  
+   -----
  
 ## **LICENSE**
 <div align="left">
@@ -168,7 +169,7 @@ To upload local repository content to a remote repository
  
   
  
- 
+  -----
    
  ## **AUTHORS**
   
@@ -181,7 +182,7 @@ To upload local repository content to a remote repository
    * Any queries, email us at [onetouchcozymood@gmail.com](https://outlook.office365.com/mail/deeplink/compose?mailtouri=mailto%3Aonetouchcozymood%40gmail.com)
 
   
-  
+   -----
    
   © 2022 Copyright UofG_Real_Time_Embedded_Systems_oneTouchCozyMood_Team 2
    
