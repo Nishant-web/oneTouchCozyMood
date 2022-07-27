@@ -55,13 +55,14 @@
   
   <div align="center">
    
- ## **ABOUT THE PROJECT**
-  
-  The project aims to deliver a real-time output of a system by using raspberry pi in C++ language, we are interfacing fingerprint sensor (R305), speaker via Gpio ports, and Bluetooth connectivity respectively. This paradigm is brought into existence to lighten-up user's moods especially after a long day at work, by adjusting the ambiance according to their mood with just one touch, hence the name "oneTouchCozyMood" which came after a lot of contemplating on several catchy names and this seemed apt for the project and its promotion on social media. The logo displayed below strives to show explicitly what the project is really about and goes with the name as a classic medley of both name and logo, which gives the user relaxing and fun vibes at first glance.
+ 
+ ## **PROJECT DESCRIPTION**
+ 
+  The project aims to deliver a real-time output of a system by using raspberry pi in object oriented C++ language, we are interfacing fingerprint sensor (R305), speaker via Gpio ports, and Bluetooth connectivity respectively. This paradigm is brought into existence to lighten-up user's moods especially after a long day at work, by adjusting the ambiance according to their mood with just one touch, hence the name "oneTouchCozyMood" which came after a lot of contemplating on several catchy names and this seemed apt for the project and its promotion on social media. The logo displayed below strives to show explicitly what the project is really about and goes with the name as a classic medley of both name and logo, which gives the user relaxing and fun vibes at first glance.
 
 
    
-  ## **COMPONENTS USED**
+  ## **HARDWARE AND SOFTWARE USED**
  
  <div align="left">
  1. Raspberry pi 3 B+ <br/>
