@@ -88,8 +88,9 @@
 
 ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/1EEF1B91-5769-496E-8CA6-E3CD94541B67.jpeg)
  
- <div align="center">
- ----- 
+ -----
+<div align="center">
+ 
 ## **PROJECT DEMO**  
   Watch our project [VIDEO DEMO](https://www.youtube.com/watch?v=O_imgMwheiM) here.
 
