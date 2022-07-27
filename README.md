@@ -145,7 +145,7 @@ To upload local repository content to a remote repository
 ## **FUTURE SCOPE**
   
    <div align="left">
-  In the long run the updates for this device will include more accessibility for the user to be able to swtich on things with just one touch for instance, connect a TV via bluetooth connectivity, however different fingre print data will be allocated to a specific user, so that one will be able to turn on TV with one finger print and put on the relaxing ambience with the other one.
+  In the long run the updates for this device will include more accessibility for the user in terms of remote control access such as smartphone application to change the figerprint to be able to swtich on things with just one touch for instance, connect a TV via bluetooth connectivity, however different fingre print data will be allocated to a specific user, so that one will be able to turn on TV with one finger print and put on the relaxing ambience with the other one.
   
   <div align="center">
   
