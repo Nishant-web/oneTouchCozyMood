@@ -122,7 +122,7 @@ To build
  
 ## **FLOW DIAGRAM**
    
-  ![]https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/block%20diagram.jpeg
+  ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/block%20diagram.jpeg)
 
   
  <div align="center"> 
