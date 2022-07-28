@@ -58,32 +58,77 @@
  
  ## **PROJECT DESCRIPTION**
  
-  The project aims to deliver a real-time output of a system by using raspberry pi in object oriented C++ language, we are interfacing fingerprint sensor (R305), speaker via Gpio ports, and Bluetooth connectivity respectively. This paradigm is brought into existence to lighten-up user's moods especially after a long day at work, by adjusting the ambiance according to their mood with just one touch, hence the name "oneTouchCozyMood" which came after a lot of contemplating on several catchy names and this seemed apt for the project and its promotion on social media. The logo displayed below strives to show explicitly what the project is really about and goes with the name as a classic medley of both name and logo, which gives the user relaxing and fun vibes at first glance.
+The project aims to deliver a real-time output of a system by using raspberry pi in object oriented C++ language, we are interfacing fingerprint sensor (R305), speaker via Gpio ports, tactile switches and Bluetooth connectivity respectively. This paradigm is brought into existence to lighten-up user's moods especially after a long day at work, by adjusting the ambiance according to their mood with just one touch, hence the name "oneTouchCozyMood" which came after a lot of contemplating on several catchy names and this seemed apt for the project and its promotion on social media. The logo displayed below strives to show explicitly what the project is really about and goes with the name as a classic medley of both name and logo, which gives the user relaxing and fun vibes at first glance.
  -----
 
    
   ## **HARDWARE AND SOFTWARE USED**
  
  <div align="left">
- 1. Raspberry pi 3 B+ <br/>
- 2. C++ embedded programming  <br/>
- 3. Fingerprint sensor R305  <br/>
+ 1. Fingerprint sensor R305 <br/>
+ 2. RGB LED Light  <br/>
+ 3. Tactile switches  <br/>
  4. Bluetooth speaker  <br/>
- 5. Led lights <br/>
- 6. Switches <br/>
+ 5. Embedded C++ Programming <br/>
+ 6. Raspbian OS <br/>
  
  -----
+
+## **QUICK GUIDE** 
+  <div align="left">
+   
   
+   To start this project
+ 
+   ^ After downloading the zip, you will see oneTouchCozyMood folder in that, there are four folders: 1) Data, 2) Delete_Users, 3) Enroll_Users, 4)Music_Player <br/>
+   ^ Run below commands to download our source code and build it <br/>
+   ^ Then, look into our circuit design as shown below. Also, you can refer pictures and videos for connecting components <br/>
+   ^ Open Enroll folder -- Click on Build-- Then click on enroll ---then click on execute in terminal <br/>
+   ^ Enter ID, name and scan your finger on fingerprint sensor then Your fingerprint name will be registered in datafolder <br/>
+   ^ Add your favourite playlist to your folder <br/>
+   ^ Go to Music player and click on build --- then click on Play --- click on execute in terminal  <br/>
+   ^ Scan your registered finger and then ambient light and your playlist will start <br/>
+   
+
+  To download our source code along with submodule
+
+```bash
+  $ git init 
+  $ git clone https://github.com/Nishant-web/oneTouchCozyMood.git
+  $ cd oneTouchCozyMood/
+  $ git submodule update --init --recursive --remote 
+```
+To download pre-build libraries
+
+```bash
+  $ chmod 0770 prerequisites.sh
+  $ ./prequisites.sh
+```
+To build
+
+```bash
+  $ cd oneTouchCozyMood/
+  $ cd Delete_Users/build/
+  $ cmake ..
+  $ make all
+  $ cd ../../Enroll_Users/build/
+  $ cmake ..
+  $ make all
+  $ cd ../../Music_Player/build/
+  $ cmake ..
+  $make all
+```  
 <div align="center">
  
 ## **FLOW DIAGRAM**
    
   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/df84aa7c-3fcc-4fed-8a76-738bd423b2a5.jpg)
+
   
  <div align="center"> 
  
   -----
-  
+
 ## **CIRCUIT DESIGN** 
 
 ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/1EEF1B91-5769-496E-8CA6-E3CD94541B67.jpeg)
@@ -96,53 +141,8 @@
 
   ----- 
 
-## **QUICK GUIDE** 
-  <div align="left">
-   
-  
-   **To start this project**
- 
-   ^ Download folder '' Delete_Users'' <br/>
-   ^ Download folder '' Enroll_Users'' <br/>
-   ^ Download folder '' Music_player'' <br/>
-   ^ make a folder and copy paste all the folder you download <br/>
-   ^ Open Enroll folder -- Click on Build-- Then click on enroll ---then click on execute in terminal <br/>
-   ^ Enter ID, name and scan your finger on fingerprint sensor then Your fingerprint name will be registered in datafolder <br/>
-   ^ Add your favourite playlist to your folder <br/>
-   ^ Go to Music player and click on build --- then click on Play --- click on execute in terminal <br/>
-   ^ Scan your registered finger and then ambient light and your playlist will start. <br/>
-   
 
-  To copy the project repository
-
-```bash
-  $ git init 
-  $ git clone 
-  $ cd oneTouchCozyMood/
-  $ git submodule update --init --recursive --remote 
-```
-To display the state of the working directory and the staging area
-
-```bash
-  $ git status
-```
-To add a change in the working directory 
-
-```bash
-  $ git add README.md
-```
-To commit with a message
-
-```bash
-  $ git commit -m "Message"
-```
-To upload local repository content to a remote repository
-
-```bash
-  $ git push -u origin
-```
-  
- ----- 
+  ----- 
 <div align="center">
      
 ## **FUTURE SCOPE**
