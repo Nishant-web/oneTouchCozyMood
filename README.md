@@ -80,9 +80,10 @@ The project aims to deliver a real-time output of a system by using raspberry pi
   
    To start this project
  
-   ^ After downloading the zip, you will see oneTouchCozyMood folder in that, there are four folders: 1) Data, 2) Delete_Users, 3) Enroll_Users, 4)Music_Player <br/>
+   ^ After downloading the zip, you will see oneTouchCozyMood folder in that, there are five folders: 1) Data, 2) Delete_Users, 3) Enroll_Users, 4)Music_Player, 5)Unit_Test <br/>
    ^ Run below commands to download our source code and build it <br/>
    ^ Then, look into our circuit design as shown below. Also, you can refer pictures and videos for connecting components <br/>
+   ^ Open unit test folder(use for checking the working of hardware) -- Click on build -- Then click on enroll ---then click on execute in terminal <br/>
    ^ Open Enroll folder -- Click on Build-- Then click on enroll ---then click on execute in terminal <br/>
    ^ Enter ID, name and scan your finger on fingerprint sensor then Your fingerprint name will be registered in datafolder <br/>
    ^ Add your favourite playlist to your folder <br/>
@@ -102,7 +103,7 @@ To download pre-build libraries
 
 ```bash
   $ chmod 0770 prerequisites.sh
-  $ ./prequisites.sh
+  $ ./prerequisites.sh
 ```
 To build
 
@@ -116,7 +117,10 @@ To build
   $ make all
   $ cd ../../Music_Player/build/
   $ cmake ..
-  $make all
+  $ make all
+  $ cd ../../Unit_Test/build/
+  $ cmake ..
+  $ make all
 ```  
 <div align="center">
  
@@ -131,7 +135,7 @@ To build
 
 ## **CIRCUIT DESIGN** 
 
-![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/1EEF1B91-5769-496E-8CA6-E3CD94541B67.jpeg)
+![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/IMG-20220729-WA0005.jpg)
  
  -----
 <div align="center">
