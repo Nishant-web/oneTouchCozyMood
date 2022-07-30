@@ -89,7 +89,7 @@ The project aims to deliver a real-time output of a system by using raspberry pi
    ^ Add your favourite playlist to your folder <br/>
    ^ Go to Music player and click on build --- then click on Play --- click on execute in terminal  <br/>
    ^ Scan your registered finger and then ambient light and your playlist will start <br/>
-   
+*IGNORE readme.txt word document in all build folders*   
 
   To download our source code along with submodule
 
@@ -126,7 +126,7 @@ To build
  
 ## **FLOW DIAGRAM**
    
-  ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/block%20diagram.jpeg)
+  ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/WhatsApp%20Image%202022-07-28%20at%2010.29.43%20PM.jpeg)
 
   
  <div align="center"> 
