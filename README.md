@@ -59,7 +59,8 @@
  ## **PROJECT DESCRIPTION**
  
 The project aims to deliver a real-time output of a system by using raspberry pi in object oriented C++ language, we are interfacing fingerprint sensor (R305), speaker via Gpio ports, tactile switches and Bluetooth connectivity respectively. This paradigm is brought into existence to lighten-up user's moods especially after a long day at work, by adjusting the ambiance according to their mood with just one touch, hence the name "oneTouchCozyMood" which came after a lot of contemplating on several catchy names and this seemed apt for the project and its promotion on social media. The logo displayed below strives to show explicitly what the project is really about and goes with the name as a classic medley of both name and logo, which gives the user relaxing and fun vibes at first glance.
- -----
+
+-----
 
    
   ## **HARDWARE AND SOFTWARE USED**
@@ -74,7 +75,10 @@ The project aims to deliver a real-time output of a system by using raspberry pi
  
  -----
 
+  <div align="center">
+  
 ## **QUICK GUIDE** 
+
   <div align="left">
    
   
@@ -124,6 +128,8 @@ To build
 ```  
 <div align="center">
  
+ ----- 
+ 
 ## **FLOW DIAGRAM**
    
   ![](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/WhatsApp%20Image%202022-07-28%20at%2010.29.43%20PM.jpeg)
@@ -145,8 +151,6 @@ To build
 
   ----- 
 
-
-  ----- 
 <div align="center">
      
 ## **FUTURE SCOPE**
@@ -155,10 +159,11 @@ To build
   In the long run the updates for this device will include more accessibility for the user in terms of remote control access such as smartphone application to use smartphones fingerprint sensor to be able to switch things with just one touch for instance, connect a TV via bluetooth connectivity, however different fingre print data will be allocated to a specific user, so that one will be able to turn on TV with one finger print and put on the relaxing ambience with the other one from the application itself.
   
   <div align="center">
+   
    -----
    
-   
 ## **SOCIAL MEDIA**
+
 <div align="center">
  
  [![instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/50px-Instagram_icon.png)](https://www.instagram.com/one_touch_cozy_mood/)
@@ -166,6 +171,7 @@ To build
  [![youtube](https://github.com/Nishant-web/oneTouchCozyMood/blob/main/Logos/Youtube%20(2).jpg)](https://www.youtube.com/channel/UCGz5qoQ1cUQMT-c8PuJZ9TA)
  
    -----
+   
  
 ## **LICENSE**
 <div align="left">
@@ -175,10 +181,12 @@ To build
   
  
   -----
-   
- ## **AUTHORS**
   
- <div align="left">
+<div align="center"> 
+
+ ## **AUTHORS**
+ 
+<div align="left">
   
    * [Nishant Kshirsagar](https://github.com/Nishant-web)   </br>
    * [Amit Rajendra Relan](https://github.com/amitrelan238) </br>
@@ -187,7 +195,7 @@ To build
    * Any queries, email us at [onetouchcozymood@gmail.com](https://outlook.office365.com/mail/deeplink/compose?mailtouri=mailto%3Aonetouchcozymood%40gmail.com)
 
   
-   -----
+  -----
    
   © 2022 Copyright UofG_Real_Time_Embedded_Systems_oneTouchCozyMood_Team 2
    
